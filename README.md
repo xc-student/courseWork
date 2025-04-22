@@ -1,5 +1,6 @@
-# courseWork
+# courseWork 
 
+```mermaid
 graph TD
     A[开始] --> B[写代码]
     B --> C[调试]
